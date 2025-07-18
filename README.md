@@ -4,3 +4,15 @@ Experementing on different things to Learn more
 3. Data Augmentation
 4. Network Architecture
 5. And more
+
+
+<img width="438" height="382" alt="image" src="https://github.com/user-attachments/assets/5cfc273a-d388-4fcc-a5da-5f71413bfd64" />
+
+First Result:
+
+<img width="1140" height="601" alt="image" src="https://github.com/user-attachments/assets/41c5c8ce-b5e0-469b-9691-f400c3ae730f" />
+
+
+
+
+
