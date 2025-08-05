@@ -12,7 +12,6 @@ First Result:
 
 <img width="1140" height="601" alt="image" src="https://github.com/user-attachments/assets/41c5c8ce-b5e0-469b-9691-f400c3ae730f" />
 
+Added Framestacking
 
-
-
-
+<img width="1214" height="638" alt="Screenshot 2025-07-29 004934" src="https://github.com/user-attachments/assets/774cd80a-570f-4425-b8ac-4068326ab85b" />
